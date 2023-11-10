@@ -5,7 +5,7 @@ start for assignment 3
 diy-pwa create
 npm install
 npm start
-
+```
 
 [Edit here][http://diy-pwa.dev/~/gh/janviDesai-9719/coming-soon-3]
 
